@@ -33,4 +33,4 @@ Includes problem-solving activities and assignments completed during TNS class s
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/<your-username>/<repository-name>.git
+   git clone https://github.com/ALWIN-DONALD-4004/java_TNS.git
